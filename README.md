@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arpitbanna/arpitbanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi, I'm Arpit 👋  
 
 🎓 B.Tech CSE @ Newton School of Technology (NST-ADYPU'29)  
@@ -46,15 +43,6 @@ Here are some ideas to get you started:
 - VS Code
 - Supabase (Learning)
 - Next.js (Exploring)
-
----
-
-## 📌 Current Focus  
-
-- Data Structures & Algorithms  
-- Building real-world frontend projects  
-- Backend fundamentals  
-- Writing clean, maintainable code  
 
 ---
 
