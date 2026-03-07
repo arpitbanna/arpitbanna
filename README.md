@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 # 💫 About Me:
 I love building clean and scalable web applications<br>Currently focusing on DSA, JavaScript & Full Stack Development<br>Strong interest in system thinking and structured problem solving<br>Always learning. Always improving.
 
