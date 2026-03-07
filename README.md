@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Arpit%20Singh&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:00FFFF&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Arpit%20Banna&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:00FFFF&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 
 </div>
 
