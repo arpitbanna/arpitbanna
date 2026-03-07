@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Arpit%20Banna&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:00FFFF&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey👋&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:00FFFF&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 
 </div>
 
@@ -60,11 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpitbanna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=arpitbanna&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbanna&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://nirzak-streak-stats.vercel.app?user=arpitbanna&theme=highcontrast&short_numbers=true" alt="GitHub Streak" />
 
 </p>
 
