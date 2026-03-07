@@ -3,6 +3,9 @@
 </div>
 
 ###
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=FF6EC7&center=true&vCenter=true&width=800&lines=⚡+Arpit+Singh;Code.+Create.+Innovate.;Welcome+to+My+GitHub+🚀">
+</p>
 
 # 💫 About Me:
 I love building clean and scalable web applications<br>Currently focusing on DSA, JavaScript & Full Stack Development<br>Strong interest in system thinking and structured problem solving<br>Always learning. Always improving.
@@ -29,5 +32,11 @@ I love building clean and scalable web applications<br>Currently focusing on DSA
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arpitbanna&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
