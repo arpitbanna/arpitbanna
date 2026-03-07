@@ -70,17 +70,24 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpitbanna&theme=radical&no-frame=true&margin-w=10">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=arpitbanna&theme=radical&no-frame=true&margin-w=10">
+<img src="https://github-profile-badge.vercel.app/api/badge?username=arpitbanna">
+![Followers](https://img.shields.io/github/followers/arpitbanna?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/arpitbanna?style=for-the-badge) -->
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitbanna&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitbanna&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitbanna&theme=tokyonight)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitbanna&theme=react-dark&hide_border=true">
 
----
 
 # 🐍 Contribution Snake
 
@@ -116,4 +123,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:00FFFF"/>
 
+
 </div>
+
